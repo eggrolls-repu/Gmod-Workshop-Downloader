@@ -3,7 +3,7 @@ A "simple" batch script that will download Garry's Mod workshop items. Since thi
 
 ![](https://cdn.discordapp.com/attachments/805660223020072973/1101473275898511401/How_to_install.png)
 
-1. Download SteamCMD from https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip and extract it into a folder.
+1. [Download SteamCMD](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip) and extract it into a folder.
 2. Find your Garry's Mod directory by right-clicking on the game in Steam, selecting "Manage" and then "Browse local files".
 3. In the "Bin" folder, find a file named "gmad.exe" and copy it into the same folder as SteamCMD.
 4. [Download the latest release](https://github.com/kevdaawsome/Gmod-Workshop-Downloader/releases) and put it in the same folder as SteamCMD and gmad.exe.
